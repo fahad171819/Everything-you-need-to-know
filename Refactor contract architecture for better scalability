@@ -1,0 +1,2 @@
+Reorganized contract structure to improve readability and scalability.
+Separated logic into clearer sections for easier maintenance.
