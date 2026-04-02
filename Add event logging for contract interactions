@@ -1,0 +1,2 @@
+Introduced events to track important contract actions, enabling better
+off-chain monitoring and debugging.
